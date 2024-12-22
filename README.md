@@ -1,6 +1,6 @@
 # Manual Testing Project
 
-This repository contains the manual testing artifacts for the [Project Name]. It includes test cases, test scenarios, and bug reports for various functionalities of the application. The goal is to maintain a structured set of test data for manual testing purposes.
+This repository contains the manual testing artifacts for the OpenCart. It includes test cases, test scenarios, and bug reports for various functionalities of the application. The goal is to maintain a structured set of test data for manual testing purposes.
 
 ## Project Structure
 
